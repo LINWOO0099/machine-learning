@@ -1,4 +1,4 @@
-# README.md - Part 1 (Simple & Short)
+# README.md - Part 1
 
 I have using in data set name "online_retail_II"
 link : https://archive.ics.uci.edu/dataset/502/online+retail+ii
